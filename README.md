@@ -77,3 +77,8 @@ func main() {
 	pretty.Println(route)
 }
 ```
+
+[Entidades API]: https://www.bcra.gob.ar/Catalogo/apis.asp?fileName=cheques-v1&sectionName=Cheques
+[Cheque API]: https://www.bcra.gob.ar/Catalogo/apis.asp?fileName=cheques-v1&sectionName=Cheques
+[Datos Variable API]: https://www.bcra.gob.ar/Catalogo/apis.asp?fileName=principales-variables-v2&sectionName=Estad%EDsticas
+[Principales Variables API]: https://www.bcra.gob.ar/Catalogo/apis.asp?fileName=principales-variables-v2&sectionName=Estad%EDsticas
